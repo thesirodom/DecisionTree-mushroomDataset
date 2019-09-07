@@ -1,0 +1,9 @@
+scikit-learn == 0.19.1
+decision-tree-id == 0.1.2
+numpy == 1.14.0
+pandas == 0.24.2
+xlrd == 1.0.0
+seaborn == 0.9.0
+graphviz == 0.12
+pydot == 1.4.1
+matplotlib == 2.1.2

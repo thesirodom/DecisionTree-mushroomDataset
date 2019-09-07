@@ -1,4 +1,6 @@
 xlrd == 1.0.0
 seaborn == 0.9.0
+decision-tree-id == 3-0.1.2
+pydot == 1.4.1
 sklearn
 graphviz

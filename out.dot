@@ -2,54 +2,54 @@ digraph ID3_Tree {
 "0" [shape=box, style=filled, label="odor
 ", weight=1]
 "1" [shape=box, style=filled, label="e
-(329)
+(240)
 ", weight=2]
 0 -> 1 [ label = "a"];
 "2" [shape=box, style=filled, label="p
-(154)
+(104)
 ", weight=2]
 0 -> 2 [ label = "c"];
 "3" [shape=box, style=filled, label="p
-(1746)
+(1197)
 ", weight=2]
 0 -> 3 [ label = "f"];
 "4" [shape=box, style=filled, label="e
-(322)
+(225)
 ", weight=2]
 0 -> 4 [ label = "l"];
 "5" [shape=box, style=filled, label="p
-(29)
+(23)
 ", weight=2]
 0 -> 5 [ label = "m"];
 "6" [shape=box, style=filled, label="spore-print-color
 ", weight=2]
 0 -> 6 [ label = "n"];
 "7" [shape=box, style=filled, label="e
-(41)
+(27)
 ", weight=3]
 6 -> 7 [ label = "b"];
 "8" [shape=box, style=filled, label="e
-(36)
+(22)
 ", weight=3]
 6 -> 8 [ label = "h"];
 "9" [shape=box, style=filled, label="e
-(1029)
+(753)
 ", weight=3]
 6 -> 9 [ label = "k"];
 "10" [shape=box, style=filled, label="e
-(1067)
+(745)
 ", weight=3]
 6 -> 10 [ label = "n"];
 "11" [shape=box, style=filled, label="e
-(35)
+(23)
 ", weight=3]
 6 -> 11 [ label = "o"];
 "12" [shape=box, style=filled, label="p
-(57)
+(41)
 ", weight=3]
 6 -> 12 [ label = "r"];
 "13" [shape=box, style=filled, label="e
-(2697/100)
+(1921/73)
 ", weight=3]
 6 -> 13 [ label = "u"];
 "14" [shape=box, style=filled, label="habitat
@@ -59,90 +59,90 @@ digraph ID3_Tree {
 ", weight=4]
 14 -> 15 [ label = "d"];
 "16" [shape=box, style=filled, label="e
-(8)
+(5)
 ", weight=5]
 15 -> 16 [ label = "b"];
 "17" [shape=box, style=filled, label="p
-(31)
+(23)
 ", weight=5]
 15 -> 17 [ label = "n"];
 "18" [shape=box, style=filled, label="e
-(228)
+(162)
 ", weight=4]
 14 -> 18 [ label = "g"];
 "19" [shape=box, style=filled, label="cap-color
 ", weight=4]
 14 -> 19 [ label = "l"];
 "20" [shape=box, style=filled, label="e
-(36/12)
+(27/9)
 ", weight=5]
 19 -> 20 [ label = "b"];
 "21" [shape=box, style=filled, label="e
-(19)
+(13)
 ", weight=5]
 19 -> 21 [ label = "c"];
 "22" [shape=box, style=filled, label="e
-(36/12)
+(27/9)
 ", weight=5]
 19 -> 22 [ label = "e"];
 "23" [shape=box, style=filled, label="e
-(36/12)
+(27/9)
 ", weight=5]
 19 -> 23 [ label = "g"];
 "24" [shape=box, style=filled, label="e
-(17)
+(14)
 ", weight=5]
 19 -> 24 [ label = "n"];
 "25" [shape=box, style=filled, label="e
-(36/12)
+(27/9)
 ", weight=5]
 19 -> 25 [ label = "p"];
 "26" [shape=box, style=filled, label="e
-(36/12)
+(27/9)
 ", weight=5]
 19 -> 26 [ label = "r"];
 "27" [shape=box, style=filled, label="e
-(36/12)
+(27/9)
 ", weight=5]
 19 -> 27 [ label = "u"];
 "28" [shape=box, style=filled, label="p
-(5)
+(4)
 ", weight=5]
 19 -> 28 [ label = "w"];
 "29" [shape=box, style=filled, label="p
-(7)
+(5)
 ", weight=5]
 19 -> 29 [ label = "y"];
 "30" [shape=box, style=filled, label="e
-(454/43)
+(323/32)
 ", weight=4]
 14 -> 30 [ label = "m"];
 "31" [shape=box, style=filled, label="e
-(30)
+(19)
 ", weight=4]
 14 -> 31 [ label = "p"];
 "32" [shape=box, style=filled, label="e
-(454/43)
+(323/32)
 ", weight=4]
 14 -> 32 [ label = "u"];
 "33" [shape=box, style=filled, label="e
-(152)
+(110)
 ", weight=4]
 14 -> 33 [ label = "w"];
 "34" [shape=box, style=filled, label="e
-(35)
+(28)
 ", weight=3]
 6 -> 34 [ label = "y"];
 "35" [shape=box, style=filled, label="p
-(200)
+(134)
 ", weight=2]
 0 -> 35 [ label = "p"];
 "36" [shape=box, style=filled, label="p
-(456)
+(314)
 ", weight=2]
 0 -> 36 [ label = "s"];
 "37" [shape=box, style=filled, label="p
-(466)
+(318)
 ", weight=2]
 0 -> 37 [ label = "y"];
 {rank=same; 0;};
